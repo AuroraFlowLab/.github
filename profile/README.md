@@ -15,7 +15,6 @@
 <font size="7">路虽远，行则将至，事虽难，做则必成！！！</font>
 
 
-
 welcome to auroraflow tech 
 
 ## 项目说明概览
@@ -24,6 +23,7 @@ AuroraFlow 是一个基于xxx
 > AuroraFlow 致力于AI+教育
 > 
 
+## 技术概览
 
 [![NPM](https://img.shields.io/npm/v/mermaid)](https://www.npmjs.com/package/mermaid)
 [![Build CI Status](https://github.com/mermaid-js/mermaid/actions/workflows/build.yml/badge.svg)](https://github.com/mermaid-js/mermaid/actions/workflows/build.yml)
@@ -69,14 +69,19 @@ AuroraFlow 是一个基于xxx
 
 
 
-## 贡献者
+
 ## 贡献者 [![Good first issue](https://img.shields.io/github/labels/mermaid-js/mermaid/Good%20first%20issue%21)](https://github.com/mermaid-js/mermaid/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue%21%22) [![Contributors](https://img.shields.io/github/contributors/mermaid-js/mermaid)](https://github.com/mermaid-js/mermaid/graphs/contributors) [![Commits](https://img.shields.io/github/commit-activity/m/mermaid-js/mermaid)](https://github.com/mermaid-js/mermaid/graphs/contributors)
 
 ## 安全-漏洞报告
 如果想要报告漏洞，请发送邮件到 15797899690@163.com, 并附上问题的描述、复现问题的步骤、受影响的版本，以及解决问题的方案（如果有的话）。
 
+
 ## 鸣谢
 > thank you
+> @
+> 
+
+
 
 
 
