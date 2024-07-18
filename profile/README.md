@@ -29,18 +29,19 @@ welcome to auroraflow tech
 |[aurora管理平台前端](https://github.com/AuroraFlowLab/aurora-flow-manage-front)|manage platform front|todo|规划中|2024-07-18|排期|
 
 
-
+-------------------------------------------
+## 里程碑
 ```mermaid
     gantt
     dateFormat  YYYY-MM-DD
-    title Adding GANTT diagram functionality to mermaid
+    title AuroraFlow work milestone
     section A section
-    Completed task            :done,    des1, 2014-01-06,2014-01-08
-    Active task               :active,  des2, 2014-01-09, 3d
+    Completed task            :done,    des1, 2024-07-17,2024-07-18
+    Active task               :active,  des2, 2024-07-19, 3d
     Future task               :         des3, after des2, 5d
     Future task2               :         des4, after des3, 5d
     section Critical tasks
-    Completed task in the critical line :crit, done, 2014-01-06,24h
+    Completed task in the critical line :crit, done, 2024-10-06,24h
     Implement parser and jison          :crit, done, after des1, 2d
     Create tests for parser             :crit, active, 3d
     Future task in critical line        :crit, 5d
