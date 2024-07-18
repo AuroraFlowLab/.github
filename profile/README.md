@@ -42,9 +42,9 @@ welcome to auroraflow tech
     Future task2               :         des4, after des3, 15d
     section Critical tasks
     Completed task in the critical line    start-up project :crit, done, 2024-07-30,24h
-    Implement parser and jison    work for aurora-flow-front and aurora-flow-engine          :crit, done, after des1, 30d
-    Create tests for parser    can run at local enviroment         :crit, active, 15d
-    Future task in critical line    finish more service module    :crit, 15d
+    Implement parser and jison    work for aurora-flow-front and aurora-flow-engine          :crit, done, after des1, 20d
+    Create tests for parser    can run at local enviroment         :crit, active, 10d
+    Future task in critical line    finish more service module    :crit, 10d
     Create tests for renderer         finish Prototype project include manage platform                :5d
     Add to mermaid          project online            :2d
 ```
