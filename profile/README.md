@@ -25,5 +25,6 @@ welcome to auroraflow tech
 |[技术调研](https://github.com/AuroraFlowLab/aurora-flow-tech-research)|相关技术调研AI/K8S.etc|todo|规划中|2024-07-17|负责人-排期|
 |[aurora前端项目](https://github.com/AuroraFlowLab/aurora-flow-front)|前端项目,PC/H5/小程序|todo|规划中|2024-07-17|排期|
 |[aurora后端engine服务](https://github.com/AuroraFlowLab/aurora-flow-engine)|engine core service|todo|规划中|2024-07-17|排期|
-
+|[aurora后端管理平台](https://github.com/AuroraFlowLab/aurora-flow-manage)| manage platform|todo|规划中|2024-07-18|排期|
+|[aurora管理平台前端](https://github.com/AuroraFlowLab/aurora-flow-manage-front)|manage platform front|todo|规划中|2024-07-18|排期|
 
