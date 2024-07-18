@@ -18,6 +18,24 @@
 
 welcome to auroraflow tech 
 
+## 项目说明概览
+AuroraFlow 是一个基于xxx
+
+> AuroraFlow 致力于AI+教育
+> 
+
+
+[![NPM](https://img.shields.io/npm/v/mermaid)](https://www.npmjs.com/package/mermaid)
+[![Build CI Status](https://github.com/mermaid-js/mermaid/actions/workflows/build.yml/badge.svg)](https://github.com/mermaid-js/mermaid/actions/workflows/build.yml)
+[![npm minified gzipped bundle size](https://img.shields.io/bundlephobia/minzip/mermaid)](https://bundlephobia.com/package/mermaid)
+[![Coverage Status](https://codecov.io/github/mermaid-js/mermaid/branch/develop/graph/badge.svg)](https://app.codecov.io/github/mermaid-js/mermaid/tree/develop)
+[![CDN Status](https://img.shields.io/jsdelivr/npm/hm/mermaid)](https://www.jsdelivr.com/package/npm/mermaid)
+[![NPM Downloads](https://img.shields.io/npm/dm/mermaid)](https://www.npmjs.com/package/mermaid)
+[![Join our Discord!](https://img.shields.io/static/v1?message=join%20chat&color=9cf&logo=discord&label=discord)](https://discord.gg/AgrbSrBer3)
+[![Twitter Follow](https://img.shields.io/badge/Social-mermaidjs__-blue?style=social&logo=X)](https://twitter.com/mermaidjs_)
+[![Covered by Argos Visual Testing](https://argos-ci.com/badge.svg)](https://argos-ci.com)
+
+
 
 |仓库名|说明|状态|进度|时间|扩展|
 |-|-|-|-|-|-|
@@ -48,6 +66,20 @@ welcome to auroraflow tech
     Create tests for renderer         finish Prototype project include manage platform                :5d
     Add to mermaid          project online            :2d
 ```
+
+
+
+## 贡献者
+## 贡献者 [![Good first issue](https://img.shields.io/github/labels/mermaid-js/mermaid/Good%20first%20issue%21)](https://github.com/mermaid-js/mermaid/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue%21%22) [![Contributors](https://img.shields.io/github/contributors/mermaid-js/mermaid)](https://github.com/mermaid-js/mermaid/graphs/contributors) [![Commits](https://img.shields.io/github/commit-activity/m/mermaid-js/mermaid)](https://github.com/mermaid-js/mermaid/graphs/contributors)
+
+## 安全-漏洞报告
+如果想要报告漏洞，请发送邮件到 15797899690@163.com, 并附上问题的描述、复现问题的步骤、受影响的版本，以及解决问题的方案（如果有的话）。
+
+## 鸣谢
+> thank you
+
+
+
 
 
 
