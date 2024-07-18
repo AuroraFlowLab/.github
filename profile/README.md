@@ -36,17 +36,17 @@ welcome to auroraflow tech
     dateFormat  YYYY-MM-DD
     title AuroraFlow work milestone
     section A section
-    Completed task            :done,    des1, 2024-07-17,2024-07-18
-    Active task               :active,  des2, 2024-07-19, 3d
-    Future task               :         des3, after des2, 5d
-    Future task2               :         des4, after des3, 5d
+    Completed task start project            :done,    des1, 2024-07-17,2024-07-18
+    Active task current todo              :active,  des2, 2024-07-19, 30d
+    Future task               :         des3, after des2, 15d
+    Future task2               :         des4, after des3, 15d
     section Critical tasks
-    Completed task in the critical line :crit, done, 2024-10-06,24h
-    Implement parser and jison          :crit, done, after des1, 2d
-    Create tests for parser             :crit, active, 3d
-    Future task in critical line        :crit, 5d
-    Create tests for renderer           :2d
-    Add to mermaid                      :1d
+    Completed task in the critical line    start-up project :crit, done, 2024-07-30,24h
+    Implement parser and jison    work for aurora-flow-front and aurora-flow-engine          :crit, done, after des1, 30d
+    Create tests for parser    can run at local enviroment         :crit, active, 15d
+    Future task in critical line    finish more service module    :crit, 15d
+    Create tests for renderer         finish Prototype project include manage platform                :5d
+    Add to mermaid          project online            :2d
 ```
 
 
