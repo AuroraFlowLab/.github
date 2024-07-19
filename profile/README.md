@@ -45,7 +45,11 @@ AuroraFlow 是一个基于xxx
 |[aurora后端engine服务](https://github.com/AuroraFlowLab/aurora-flow-engine)|engine core service|todo|规划中|2024-07-17|排期|
 |[aurora后端管理平台](https://github.com/AuroraFlowLab/aurora-flow-manage)| manage platform|todo|规划中|2024-07-18|排期|
 |[aurora管理平台前端](https://github.com/AuroraFlowLab/aurora-flow-manage-front)|manage platform front|todo|规划中|2024-07-18|排期|
-
+|[aurora异步任务调度平台](https://github.com/AuroraFlowLab/aurora-flow-schedule)|cron schedule platform|todo|<progress value="50" max="100">1%</progress>|2024-07-20|next|
+|[aurora后端前台网关](https://github.com/AuroraFlowLab/aurora-flow-gateway)|gateway router|todo|一期|2024-07-20|next|
+|[aurora数据访问层](https://github.com/AuroraFlowLab/aurora-flow-data)|data access layer|todo|一期|2024-07-20|next|
+|[aurora日志监控平台](https://github.com/AuroraFlowLab/aurora-flow-log)|log collector and monitor|todo|一期|2024-07-20|next|
+|[aurora大语言模型](https://github.com/AuroraFlowLab/aurora-flow-ai)|algorithm|todo|一期|2024-07-20|next|
 
 -------------------------------------------
 ## 里程碑
